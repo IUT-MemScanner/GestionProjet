@@ -1,14 +1,14 @@
-réunion 1
+Réunion 1
 =========
 
-juridique
+Juridique
 ---------
 
 * législation en fonction des pays
 * Qu'a-t-on le droit de faire ?
 * le contrat d'utilisation
 
-techniques
+Techniques
 ----------
 
 * Linux -> langage de prédilection = C
@@ -18,7 +18,7 @@ techniques
 * localiser la donnée modifiée
 * remplacer le code d'une fonction par un code faisant la même taille en mémoire
 
-rendu et organisation
+Rendu et organisation
 ---------------------
 
 * rapport
