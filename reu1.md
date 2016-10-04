@@ -8,7 +8,7 @@ Juridique
 * Qu'a-t-on le droit de faire ?
 * le contrat d'utilisation
 
-Techniques
+Technique
 ----------
 
 * Linux -> langage de prédilection = C
