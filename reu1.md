@@ -63,9 +63,9 @@ Missions
 
 Travail la semaine prochaine 
 -----------------------------------
-Créer les sessions des outils collaboratifs
-Partager les recherches documentaires
-Manifester notre joie de participer à ce projet par des offrandes aux caribous du Père-Noël ou à Cthulhu (selon les affinités spirituelles) :D
+* Créer les sessions des outils collaboratifs
+* Partager les recherches documentaires
+* Manifester notre joie de participer à ce projet par des offrandes aux caribous du Père-Noël ou à Cthulhu (selon les affinités spirituelles) :D
 
 En bonus 
 ----------
