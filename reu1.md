@@ -59,7 +59,8 @@ Missions
 * @Tous Transmettre ses contraintes horaires hebdomadaires (sport, etc.) et annuelle (sauver le monde, rassemblement annuel des buveurs de bière, etc.)
 * @Tous Se rafraichir la mémoire en C
 * @Tous Se documenter sur le sujet
-* 
+
+
 Travail la semaine prochaine 
 -----------------------------------
 Créer les sessions des outils collaboratifs
